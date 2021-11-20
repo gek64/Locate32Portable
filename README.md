@@ -10,7 +10,7 @@ All downloads available in the [Releases](https://github.com/gek64/Locate32Porta
 * Easily uninstall, clean and reset.
 
 ## Limitations
-* If use `Run Locate on system startup`, you need to point `%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup\Locate32 Autorun.lnk` to `Locate32Portable.exe`
+* If use `Run Locate on system startup`, you need to point `%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup\Locate32 Autorun.lnk` to `Locate32_Portable_Location\Locate32Portable.exe`
 
 ## System Requirements
 * Microsoft Windows 7 or later.
